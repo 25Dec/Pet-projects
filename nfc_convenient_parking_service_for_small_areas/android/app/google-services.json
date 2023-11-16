@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121040608200",
+    "firebase_url": "https://nfc-convenient-parking-service-default-rtdb.firebaseio.com",
+    "project_id": "nfc-convenient-parking-service",
+    "storage_bucket": "nfc-convenient-parking-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121040608200:android:ae3ff9e28283ea8bdcbefd",
+        "android_client_info": {
+          "package_name": "com.example.nfc_convenient_parking_service_for_small_areas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121040608200-ntdr9kson2fqa8n3q85eo7uet0assvu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOhl2Xym5sHkhSgq4gWmI18iq0YXJMx5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121040608200-ntdr9kson2fqa8n3q85eo7uet0assvu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

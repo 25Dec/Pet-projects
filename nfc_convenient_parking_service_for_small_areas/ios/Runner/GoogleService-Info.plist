@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>121040608200-7j1s0di8pqrnjkb7ht2uu76li52bq5ja.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.121040608200-7j1s0di8pqrnjkb7ht2uu76li52bq5ja</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBtpO1KltdCdhxbYcaD6oVU1YOEFnKf9oE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>121040608200</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.nfcConvenientParkingServiceForSmallAreas</string>
+	<key>PROJECT_ID</key>
+	<string>nfc-convenient-parking-service</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nfc-convenient-parking-service.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:121040608200:ios:5d186ae9e69ea814dcbefd</string>
+	<key>DATABASE_URL</key>
+	<string>https://nfc-convenient-parking-service-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
